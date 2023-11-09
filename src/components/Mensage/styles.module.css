@@ -1,0 +1,17 @@
+.mensagemContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    margin: 10px;
+}
+
+.mensagemSuccess {
+    background-color: green;
+    color: white;
+}
+
+.mensagemError {
+    background-color: red;
+    color: white;
+}

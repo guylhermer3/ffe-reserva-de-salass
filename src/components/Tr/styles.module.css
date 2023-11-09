@@ -1,0 +1,23 @@
+.tr:hover {
+    background-color: #007bff !important;
+  }
+  
+  .tr:nth-child(even) {
+    background-color: #fff;
+  }
+  
+  .tr:nth-child(odd) {
+    background-color: #ccc;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .left {
+    text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+  }
