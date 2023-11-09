@@ -1,6 +1,6 @@
 .td {
   text-align: center;
-  border: 1px solid black;
+  border: 1px solid #000000;
   padding: 0.5rem;
 }
 
@@ -8,10 +8,10 @@
   text-align: center;
 }
 
-.left {
-  text-align: left;
-}
-
 .right {
   text-align: right;
+}
+
+.left {
+  text-align: left;
 }

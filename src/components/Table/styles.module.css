@@ -1,10 +1,10 @@
 .table {
   width: 99%;
   margin: 30px 5px;
+  border-collapse: collapse;
+  overflow: hidden;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
   font-size: 16px;
-  border: 1px solid #000;
-  border-collapse: collapse;
-  overflow: hidden;
+  border: 1px solid #000000;
 }

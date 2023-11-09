@@ -3,21 +3,21 @@
   }
   
   .tr:nth-child(even) {
-    background-color: #fff;
+    background-color: #ffffff;
   }
   
   .tr:nth-child(odd) {
-    background-color: #ccc;
+    background-color: #cccccc;
   }
   
   .center {
     text-align: center;
   }
+
+  .right {
+    text-align: right;
+  }
   
   .left {
     text-align: left;
-  }
-  
-  .right {
-    text-align: right;
   }

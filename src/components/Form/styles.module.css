@@ -4,50 +4,50 @@
 }
 
 .content textarea {
-    height: 100px;
     resize: none;
+    height: 100px;
     padding: 5px;
     width: 100%;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc;
 }
 
 .content input {
     height: 40px;
     padding: 5px;
     width: 100%;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc;
 }
 
 .success {
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc;
 }
 
 .error {
-    border: 1px solid red;
+    border: 1px solid #ff0000;
 }
 
 .content select {
     height: 40px;
     padding: 5px;
     width: 100%;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc;
 }
 
 .content_button {
     display: flex;
+    justify-content: flex-end;
     margin: 10px 10px 0 0;
     width: 100%;
-    justify-content: flex-end;
 }
 
 .content_button button {
     padding: 10px;
     font-weight: 700;
+    border: none;
     height: 50px;
     width: 130px;
     background: #42628c;
-    color: #fff;
-    border: none;
+    color: #ffffff;
     cursor: pointer;
     margin: 10px;
 }

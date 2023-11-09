@@ -7,11 +7,11 @@
 }
 
 .mensagemSuccess {
-    background-color: green;
-    color: white;
+    background-color: #008000;
+    color: #ffffff;
 }
 
 .mensagemError {
-    background-color: red;
-    color: white;
+    background-color: #ff0000;
+    color: #ffffff;
 }

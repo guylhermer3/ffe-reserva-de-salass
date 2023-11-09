@@ -1,9 +1,9 @@
 .container {
-    background-color: #42628c;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
-    color: white;
     min-width: 100%;
+    padding: 10px;
+    background-color: #42628c;
+    color: white;
 }
